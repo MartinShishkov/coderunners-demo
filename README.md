@@ -7,3 +7,5 @@ Demo project for my interview at CODE RUNNERS
 3. Navigate to `Logistics.Web.UI/app` and run `npm install`
 4. Start Logistics.Web.API
 5. Start Logistics.Web.UI
+
+![Demo GIF](/app-demo.gif "example demo gif")
